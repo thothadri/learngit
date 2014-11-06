@@ -1,1 +1,3 @@
-print " I am a STAR. Not Sucheth" 
+print " I am a STAR. Not Sucheth"
+
+c="b"+"d"
